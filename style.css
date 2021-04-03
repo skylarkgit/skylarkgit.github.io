@@ -1,0 +1,29 @@
+:root {
+  --color-primary: #222831;
+  --color-secondary: #393e46;
+  --color-highlight: #2079c7;
+  --color-foreground: #eeeeee;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+  margin: 3px;
+}
+
+.single-text {
+  display: block;
+}
+
+.section-title {
+  color: var(--color-highlight);
+  font-size: medium;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.list-group-item {
+    border: 0;
+    padding: 0.5rem;
+}
+
