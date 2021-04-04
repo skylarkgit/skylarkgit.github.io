@@ -55,7 +55,7 @@ html {
 }
 
 .banner {
-  background: transparent;
+  background: transparent !important;
 }
 
 .btn {
